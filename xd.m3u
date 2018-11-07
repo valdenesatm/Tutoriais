@@ -31,7 +31,7 @@ https://gg4.azureedge.net//hls1/telecineaction.m3u8
 https://gg3.azureedge.net//hls1/telecinefun.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="http://i.imgur.com/lfOS7gF.png" group-title="CANAIS: FILMES/SERIES",Telecine Pipoca HD
-https://gg4.azureedge.net//hls1/telecinepipoca.m3u8
+https://cdn11.pxstream.tv/hls/telecinepipocahd/chunks.m3u8?md5=y86Wp-vFqB41TCV961iJmw&expires=1541664918
 
 #EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="http://i.imgur.com/aMWCWA0.png" group-title="CANAIS: FILMES/SERIES",Telecine Premium HD
 https://gg4.azureedge.net//hls1/telecinepremium.m3u8

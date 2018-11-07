@@ -2,10 +2,13 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Example">
     <display-name lang="en">Example</display-name>
-    <url>http://www.dummy</url>
   </channel>
   <channel id="Animal Planet HD">
     <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal Sony">
+    <display-name lang="pt">Canal Sony</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
   <programme start="20181107000000 +0000" stop="20181107235900 +0000" channel="Example">
@@ -538,6 +541,498 @@
   </programme>
   <programme start="20181109230900 -0400" stop="20181110000700 -0400" channel="Animal Planet HD">
     <title lang="pt">Pesca Insana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107000000 -0400" stop="20181107010000 -0400" channel="Canal Sony">
+    <title lang="pt">Marvel's Cloak &amp; Dagger</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107010000 -0400" stop="20181107030000 -0400" channel="Canal Sony">
+    <title lang="pt">Zumbilândia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107030000 -0400" stop="20181107033000 -0400" channel="Canal Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107033000 -0400" stop="20181107040000 -0400" channel="Canal Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107040000 -0400" stop="20181107050000 -0400" channel="Canal Sony">
+    <title lang="pt">Teen Wolf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107050000 -0400" stop="20181107060000 -0400" channel="Canal Sony">
+    <title lang="pt">Teen Wolf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107060000 -0400" stop="20181107063000 -0400" channel="Canal Sony">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107063000 -0400" stop="20181107070000 -0400" channel="Canal Sony">
+    <title lang="pt">A Roupa Ideal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107070000 -0400" stop="20181107073000 -0400" channel="Canal Sony">
+    <title lang="pt">Young &amp; Hungry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107073000 -0400" stop="20181107080000 -0400" channel="Canal Sony">
+    <title lang="pt">Black-ish</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107080000 -0400" stop="20181107095000 -0400" channel="Canal Sony">
+    <title lang="pt">The Voice</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107095000 -0400" stop="20181107110400 -0400" channel="Canal Sony">
+    <title lang="pt">The X Factor UK</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107110400 -0400" stop="20181107120400 -0400" channel="Canal Sony">
+    <title lang="pt">The Voice</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107120400 -0400" stop="20181107130500 -0400" channel="Canal Sony">
+    <title lang="pt">The X Factor UK</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107130500 -0400" stop="20181107140000 -0400" channel="Canal Sony">
+    <title lang="pt">The Voice</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107140000 -0400" stop="20181107150000 -0400" channel="Canal Sony">
+    <title lang="pt">Teen Wolf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107150000 -0400" stop="20181107160000 -0400" channel="Canal Sony">
+    <title lang="pt">Teen Wolf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107160000 -0400" stop="20181107163000 -0400" channel="Canal Sony">
+    <title lang="pt">Young &amp; Hungry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107163000 -0400" stop="20181107170000 -0400" channel="Canal Sony">
+    <title lang="pt">Black-ish</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107170000 -0400" stop="20181107173000 -0400" channel="Canal Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107173000 -0400" stop="20181107180000 -0400" channel="Canal Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107180000 -0400" stop="20181107183000 -0400" channel="Canal Sony">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107183000 -0400" stop="20181107190000 -0400" channel="Canal Sony">
+    <title lang="pt">A Roupa Ideal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107190000 -0400" stop="20181107210000 -0400" channel="Canal Sony">
+    <title lang="pt">Pegar e Largar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107210000 -0400" stop="20181107225000 -0400" channel="Canal Sony">
+    <title lang="pt">The Voice</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181107225000 -0400" stop="20181108004000 -0400" channel="Canal Sony">
+    <title lang="pt">The X Factor UK</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108004000 -0400" stop="20181108023000 -0400" channel="Canal Sony">
+    <title lang="pt">The Voice</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108023000 -0400" stop="20181108030000 -0400" channel="Canal Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108030000 -0400" stop="20181108033000 -0400" channel="Canal Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108033000 -0400" stop="20181108040000 -0400" channel="Canal Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108040000 -0400" stop="20181108050000 -0400" channel="Canal Sony">
+    <title lang="pt">Teen Wolf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108050000 -0400" stop="20181108060000 -0400" channel="Canal Sony">
+    <title lang="pt">Teen Wolf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108060000 -0400" stop="20181108063000 -0400" channel="Canal Sony">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108063000 -0400" stop="20181108070000 -0400" channel="Canal Sony">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108070000 -0400" stop="20181108073000 -0400" channel="Canal Sony">
+    <title lang="pt">Young &amp; Hungry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108073000 -0400" stop="20181108075500 -0400" channel="Canal Sony">
+    <title lang="pt">Black-ish</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108075500 -0400" stop="20181108082000 -0400" channel="Canal Sony">
+    <title lang="pt">Black-ish</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108082000 -0400" stop="20181108092000 -0400" channel="Canal Sony">
+    <title lang="pt">The Voice</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108092000 -0400" stop="20181108102000 -0400" channel="Canal Sony">
+    <title lang="pt">The X Factor UK</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108102000 -0400" stop="20181108121000 -0400" channel="Canal Sony">
+    <title lang="pt">The Voice</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108121000 -0400" stop="20181108140000 -0400" channel="Canal Sony">
+    <title lang="pt">The X Factor UK</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108140000 -0400" stop="20181108150000 -0400" channel="Canal Sony">
+    <title lang="pt">Teen Wolf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108150000 -0400" stop="20181108160000 -0400" channel="Canal Sony">
+    <title lang="pt">Teen Wolf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108160000 -0400" stop="20181108163000 -0400" channel="Canal Sony">
+    <title lang="pt">Young &amp; Hungry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108163000 -0400" stop="20181108170000 -0400" channel="Canal Sony">
+    <title lang="pt">Black-ish</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108170000 -0400" stop="20181108173000 -0400" channel="Canal Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108173000 -0400" stop="20181108180000 -0400" channel="Canal Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108180000 -0400" stop="20181108183000 -0400" channel="Canal Sony">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108183000 -0400" stop="20181108190000 -0400" channel="Canal Sony">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108190000 -0400" stop="20181108210000 -0400" channel="Canal Sony">
+    <title lang="pt">Palavras e Imagens</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108210000 -0400" stop="20181108220000 -0400" channel="Canal Sony">
+    <title lang="pt">The Voice</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108220000 -0400" stop="20181108230000 -0400" channel="Canal Sony">
+    <title lang="pt">The Voice</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181108230000 -0400" stop="20181109000000 -0400" channel="Canal Sony">
+    <title lang="pt">The X Factor UK</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109000000 -0400" stop="20181109015000 -0400" channel="Canal Sony">
+    <title lang="pt">The X Factor UK</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109015000 -0400" stop="20181109025000 -0400" channel="Canal Sony">
+    <title lang="pt">The X Factor UK</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109025000 -0400" stop="20181109031500 -0400" channel="Canal Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109031500 -0400" stop="20181109034000 -0400" channel="Canal Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109034000 -0400" stop="20181109040500 -0400" channel="Canal Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109040500 -0400" stop="20181109050000 -0400" channel="Canal Sony">
+    <title lang="pt">Teen Wolf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109050000 -0400" stop="20181109060000 -0400" channel="Canal Sony">
+    <title lang="pt">Teen Wolf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109060000 -0400" stop="20181109063000 -0400" channel="Canal Sony">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109063000 -0400" stop="20181109070000 -0400" channel="Canal Sony">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109070000 -0400" stop="20181109073000 -0400" channel="Canal Sony">
+    <title lang="pt">Young &amp; Hungry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109073000 -0400" stop="20181109080000 -0400" channel="Canal Sony">
+    <title lang="pt">Black-ish</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109080000 -0400" stop="20181109090000 -0400" channel="Canal Sony">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109090000 -0400" stop="20181109100000 -0400" channel="Canal Sony">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109100000 -0400" stop="20181109110000 -0400" channel="Canal Sony">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109110000 -0400" stop="20181109120000 -0400" channel="Canal Sony">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109120000 -0400" stop="20181109130000 -0400" channel="Canal Sony">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109130000 -0400" stop="20181109140000 -0400" channel="Canal Sony">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109140000 -0400" stop="20181109150000 -0400" channel="Canal Sony">
+    <title lang="pt">Teen Wolf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109150000 -0400" stop="20181109160000 -0400" channel="Canal Sony">
+    <title lang="pt">Teen Wolf</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109160000 -0400" stop="20181109163000 -0400" channel="Canal Sony">
+    <title lang="pt">Young &amp; Hungry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109163000 -0400" stop="20181109170000 -0400" channel="Canal Sony">
+    <title lang="pt">Black-ish</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109170000 -0400" stop="20181109173000 -0400" channel="Canal Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109173000 -0400" stop="20181109180000 -0400" channel="Canal Sony">
+    <title lang="pt">How I Met Your Mother</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109180000 -0400" stop="20181109183000 -0400" channel="Canal Sony">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109183000 -0400" stop="20181109190000 -0400" channel="Canal Sony">
+    <title lang="pt">Chefs em Ação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109190000 -0400" stop="20181109200000 -0400" channel="Canal Sony">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109200000 -0400" stop="20181109220000 -0400" channel="Canal Sony">
+    <title lang="pt">Trovão Tropical</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109220000 -0400" stop="20181109230000 -0400" channel="Canal Sony">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181109230000 -0400" stop="20181110000000 -0400" channel="Canal Sony">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>

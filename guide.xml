@@ -6,13 +6,7 @@
   </channel>
   <channel id="Animal Planet HD">
     <display-name lang="pt">Animal Planet HD</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvmundomaior.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Canal Sony">
-    <display-name lang="pt">Canal Sony</display-name>
-    <icon src="http://www.lineup.tv.br/canais/utv.gif" />
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <programme start="20181107000000 +0000" stop="20181107235900 +0000" channel="Example">
     <title lang="en">dummy program - Full Day Show</title>

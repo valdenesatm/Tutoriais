@@ -63,34 +63,6 @@
     <display-name lang="pt">Globo RJ</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Globo MG">
-    <display-name lang="pt">Globo MG</display-name>
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Globo SP">
-    <display-name lang="pt">Globo SP</display-name>
-    <url>http://www.tvmagazine.com.br</url>
-  </channel>
-  <channel id="Record HD">
-    <display-name lang="pt">Record HD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="Record">
-    <display-name lang="pt">Record</display-name>
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="SBT">
-    <display-name lang="pt">SBT</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="SBT 2">
-    <display-name lang="pt">SBT 2</display-name>
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Globo RJ">
-    <display-name lang="pt">Globo RJ</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
   <channel id="Record HD">
     <display-name lang="pt">Record HD</display-name>
     <url>http://www.netcombo.com.br</url>
@@ -99,30 +71,6 @@
     <display-name lang="pt">SBT</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-    <programme start="20181107000000 +0000" stop="20181107235900 +0000" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
-  </programme>
-  <programme start="20181108000000 +0000" stop="20181108235900 +0000" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
-  </programme>
-  <programme start="20181109000000 +0000" stop="20181109235900 +0000" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
-  </programme>
-  <programme start="20181110000000 +0000" stop="20181110235900 +0000" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
-  </programme>
-  <programme start="20181111000000 +0000" stop="20181111235900 +0000" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
-  </programme>
-  <programme start="20181112000000 +0000" stop="20181112235900 +0000" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
-  </programme>
   <programme start="20181107000000 +0000" stop="20181107235900 +0000" channel="Example">
     <title lang="en">dummy program - Full Day Show</title>
     <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>

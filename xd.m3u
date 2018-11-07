@@ -45,10 +45,17 @@ https://gg4.azureedge.net//hls1/telecinecult.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Globo RJ" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAIS: ABERTO",Globo RJ
 https://cdn11.pxstream.tv/hls/boborj/chunks.m3u8?md5=cNE_-q78xry0Q9ZjAStaCg&expires=1541673336
 
-#EXTINF:-1 tvg-id="" tvg-name="Globo MG" tvg-logo="" group-title="CANAIS: ABERTO",Globo MG
+#EXTINF:-1 tvg-id="" tvg-name="Globo MG" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title=" group-title="CANAIS: ABERTO",Globo MG
 https://www.toquemp3.com:25463/live/AssistirTV/OnlineGratis/18.m3u8?token=QxBcWRdYGgoRBQcMXAkODgUBVAkEV10FXAtdBgpaBw5ZAgVeBQgAAQJDHxcXREpcVghtUVcUXlIAHhpGS1xHaFFWFgJGARocERVaWAESAgkbR0JRVxReQQoEDgoBGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GZHdpZyt3bBNiAQ9dUVdeGHVBU1kQGBoGWUxCUhVWF14SCggGXRAUEVULFlZGSkoaAxd1ahAYGgFITFVdElpaChICG1pWRwARGkYKS21KVktNR1JZX1FKRgoaABFNEVgFSGdaWAtcXVBCDQxWQRoJGgkXGxpfW1YNRFdCbBFaUUYKGg4FVgIaTg==
 
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAIS: ABERTO",Globo SP
+https://cdn11.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-720p/chunks.m3u8?md5=_3facJdX3fIYjRFDBZ7Csg&expires=1541673983
 
+#EXTINF:-1 tvg-id="" tvg-name="Record HD" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="CANAIS: ABERTO",Record HD
+https://gg4.azureedge.net//hls1/recordsp.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Record" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="CANAIS: ABERTO",Record
+https://cdn11.pxstream.tv/hls2/record2278/chunks.m3u8?md5=6Gz8KzGkscglj0LvDjX0UA&expires=1541674432
 
 
 

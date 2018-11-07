@@ -19,7 +19,7 @@ https://gg4.azureedge.net//hls1/tnt.m3u8
 https://gg4.azureedge.net//hls1/tntseries.m3u8
 
 #EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix HD" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="CANAIS: FILMES/SERIES",Megapix HD
-https://www.skyiptv.com.br:25463/live/AssistirTV/OnlineGratis/68.m3u8
+https://gg3.azureedge.net//hls1/megapix.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="CANAIS: FILMES/SERIES",Space HD
 https://gg4.azureedge.net//hls1/space.m3u8

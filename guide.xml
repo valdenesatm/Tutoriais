@@ -2,97 +2,14 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Example">
     <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
   </channel>
-  <channel id="Animal Planet HD">
-    <display-name lang="pt">Animal Planet HD</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="ANIMAL PLANET HD">
+    <display-name lang="pt">ANIMAL PLANET HD</display-name>
+    <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Canal Sony">
-    <display-name lang="pt">Canal Sony</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="SONY HD">
+    <display-name lang="pt">SONY HD</display-name>
+    <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Viva">
-    <display-name lang="pt">Viva</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="FOX HD">
-    <display-name lang="pt">FOX HD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="TNT HD">
-    <display-name lang="pt">TNT HD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="TNT Series HD">
-    <display-name lang="pt">TNT Series HD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="Megapix HD">
-    <display-name lang="pt">Megapix HD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="Space HD">
-    <display-name lang="pt">Space HD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="Telecine Action HD">
-    <display-name lang="pt">Telecine Action HD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="Telecine Fun HD">
-    <display-name lang="pt">Telecine Fun HD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="Telecine Pipoca HD">
-    <display-name lang="pt">Telecine Pipoca HD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="Telecine Premium HD">
-    <display-name lang="pt">Telecine Premium HD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="Telecine Touch HD">
-    <display-name lang="pt">Telecine Touch HD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="Telecine Cult HD">
-    <display-name lang="pt">Telecine Cult HD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="Globo RJ">
-    <display-name lang="pt">Globo RJ</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="Record HD">
-    <display-name lang="pt">Record HD</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="SBT">
-    <display-name lang="pt">SBT</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <programme start="20181107000000 +0000" stop="20181107235900 +0000" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
-  </programme>
-  <programme start="20181108000000 +0000" stop="20181108235900 +0000" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
-  </programme>
-  <programme start="20181109000000 +0000" stop="20181109235900 +0000" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
-  </programme>
-  <programme start="20181110000000 +0000" stop="20181110235900 +0000" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
-  </programme>
-  <programme start="20181111000000 +0000" stop="20181111235900 +0000" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
-  </programme>
-  <programme start="20181112000000 +0000" stop="20181112235900 +0000" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
-  </programme>
 </tv>

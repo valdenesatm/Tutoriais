@@ -4,12 +4,12 @@
     <display-name lang="en">Example</display-name>
     <url>http://www.dummy</url>
   </channel>
-  <channel id="ANIMAL PLANET HD">
-    <display-name lang="pt">ANIMAL PLANET HD</display-name>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="SONY HD">
-    <display-name lang="pt">SONY HD</display-name>
+  <channel id="Canal Sony">
+    <display-name lang="pt">Canal Sony</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
 </tv>
